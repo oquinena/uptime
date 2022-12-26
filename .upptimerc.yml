@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "Uptime of oquinena.com"
-  introMessage: Current status:
+  introMessage: "Current status"
   navbar:
     - title: Status
       href: /
