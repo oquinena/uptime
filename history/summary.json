@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oquinena.com.ico",
     "slug": "oquinena-com",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 653,
-    "timeDay": 459,
-    "timeWeek": 597,
+    "uptimeYear": "99.87%",
+    "time": 652,
+    "timeDay": 541,
+    "timeWeek": 568,
     "timeMonth": 642,
-    "timeYear": 653,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2023-06-12": 387
     }
