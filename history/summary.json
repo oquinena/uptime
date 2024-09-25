@@ -6,17 +6,16 @@
     "slug": "oquinena-com",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 583,
-    "timeDay": 754,
-    "timeWeek": 547,
-    "timeMonth": 561,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 584,
+    "timeDay": 756,
+    "timeWeek": 586,
+    "timeMonth": 566,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-09-24": 11,
       "2024-05-08": 77
     }
   }
