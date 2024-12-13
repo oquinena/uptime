@@ -4,7 +4,7 @@
     "url": "https://www.oquinena.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.oquinena.com.ico",
     "slug": "oquinena-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1115,
     "timeYear": 623,
     "dailyMinutesDown": {
+      "2024-12-13": 0,
       "2024-05-08": 77
     }
   }
