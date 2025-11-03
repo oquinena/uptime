@@ -4,19 +4,19 @@
     "url": "https://www.oquinena.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.oquinena.com.ico",
     "slug": "oquinena-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "94.86%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "99.48%",
     "time": 607,
-    "timeDay": 605,
+    "timeDay": 603,
     "timeWeek": 609,
     "timeMonth": 602,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-11-03": 55,
+      "2025-11-03": 70,
       "2025-11-02": 97,
       "2025-11-01": 86,
       "2025-10-31": 55,
@@ -53,7 +53,7 @@
       "2025-09-29": 36,
       "2025-09-28": 99,
       "2025-09-27": 53,
-      "2025-09-26": 39
+      "2025-09-26": 20
     }
   }
 ]
